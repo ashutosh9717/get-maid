@@ -1,0 +1,31 @@
+body {
+background: url(https://images.unsplash.com/photo-1489274495757-95c7c837b101?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+
+background-size: cover;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+
+}
+
+h1{
+	font-weight: 400;
+	font-size: 5em;
+}
+
+#mainNavbar .navbar-brand {
+	color: black;
+	font-size: 1.5rem;
+}
+
+#mainNavbar .nav-link:hover {
+	background: purple;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
